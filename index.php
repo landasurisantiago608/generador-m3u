@@ -48,7 +48,7 @@
 		</div>
 		<footer class="footer text-center mt-2">
 			<div class="container">
-				<span class="text-muted">1.0 - <a href="" target="_blank">GitHub</a> - alebupal - <a href="https://www.paypal.me/alebupal" target="_blank">PayPal</a></span>
+				<span class="text-muted">1.0 - <a href="https://github.com/alebupal/generador-m3u" target="_blank">GitHub</a> - alebupal - <a href="https://www.paypal.me/alebupal" target="_blank">PayPal</a></span>
 			</div>
 		</footer>
 		<script type='text/javascript' src='vendor/jquery-3.3.1.min.js'></script>
