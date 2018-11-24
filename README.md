@@ -1,4 +1,4 @@
-# Generador m3u TvHeadend - Generator m3u TvHeadend 1.0
+# Generador m3u TvHeadend - Generator m3u TvHeadend - 1.0
 
 Aplicación web para generar una lista m3u - Web application to generate a m3u list.
 
